@@ -1,0 +1,10 @@
+
+                     
+.cards{
+    display: flex;
+    gap:20px;
+    margin-left: 307px;
+}
+.parentContainer{
+     width: 320px;
+}
